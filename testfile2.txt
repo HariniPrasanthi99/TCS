@@ -1,1 +1,3 @@
-Wednesday  
+A crime is an intentional act that is usually considered socially harmful or dangerous. It is specifically defined, prohibited, and punishable under criminal law. Most countries have a criminal code outlining criminal laws.
+techpanda testfile2.txt changed
+print("Hello, World!")   
